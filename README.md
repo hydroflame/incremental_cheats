@@ -28,7 +28,7 @@ That's great but you may want to be able to disable this sometimes. So use the e
 
 That will add a checkbox on the ui with the label 'auto make paperclip'. When it is checked the task will be executed.
 
-Now we want to setup a skill tree in [calculator evolution](https://spotky1004.com/Calculator-Evolution/). We know we need to buy 5 skills for this one.
+Now we want to setup a skill tree in [calculator evolution](https://spotky1004.com/Calculator-Evolution/). We know we need to buy several skills for this one.
 
 This isn't a task we want executed every 50ms. Only when we click it. So we can use `addButton`
 
