@@ -1,3 +1,5 @@
+## This repo will be deprecated in favor of ext_cheats
+
 # libcheat!
 
 libcheat is a library you can import in your console to help play (cheat) html games.
