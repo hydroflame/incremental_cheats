@@ -1,3 +1,5 @@
+# DEPRECATION WARNING!
+
 ## This repo will be deprecated in favor of ext_cheats
 
 # libcheat!
